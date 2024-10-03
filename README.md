@@ -2,11 +2,11 @@
 
 A data analysis project using Python by Bruno Xie
 
-### Link to the Data
+## Link to the Data
 
 Given that the datasets used are too large to upload to GitHub, Dropbox has been utilized for data storage. Here is the [link](https://www.dropbox.com/scl/fi/q1f3jlp4h8gdyfci7j1zr/Data.zip?rlkey=hwovqx121dhpabeng1ooxd3ue&st=4qm6krfv&dl=0) to the Dropbox page.
 
-### Research Question
+## Research Question
 
 The research question addressed is: What are some factors that may affect restaurant reviews? The answer to this question serves as a guidebook for restaurant entrepreneurs to develop better business models and enhance their reputations. Understanding these factors is critical in the competitive restaurant industry, where high ratings significantly influence customer choices. This analysis is conducted from two perspectives: microscopic and macroscopic.
 
@@ -14,7 +14,7 @@ The research question addressed is: What are some factors that may affect restau
 
 * From a macroscopic perspective, external restaurant features at the zipcode/county level are investigated, including demographic information such as population, average house prices, and international migration rates. Two datasets are used: `us_county_demographics.csv`, which contains demographic information at the zip code level, and `Zillow-Data.csv`, extracted through API, which contains average house prices by zip code. Understanding the external factors allows restaurant owners to tailor their marketing strategies and outreach based on the demographics of their target areas.
 
-### Approach
+## Approach
 
 1. **Data Wrangling**
 
@@ -57,7 +57,7 @@ The research question addressed is: What are some factors that may affect restau
 
    > All statistical analyses are completed in `regression analysis.py`.
 
-### Results
+## Results
 
 1. **Regression Analysis**
 
@@ -69,6 +69,6 @@ The research question addressed is: What are some factors that may affect restau
 
    * The analysis reveals that customer sentiment aligns with restaurant star ratings. A positive correlation exists between star ratings and review polarity, indicating that higher ratings correspond to more favorable comments. This insight can help owners understand the significance of customer feedback in shaping their ratings.
 
-### Conclusion
+## Conclusion
 
 This analysis provides valuable insights for restaurant owners and stakeholders to enhance operational efficiency, tailor marketing strategies, and ultimately improve customer satisfaction, thus fostering a more sustainable and successful business model in the competitive restaurant landscape.
