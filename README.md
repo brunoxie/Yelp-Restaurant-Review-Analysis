@@ -2,8 +2,6 @@
 
 A data analysis project using Python by Bruno Xie
 
-*by alphabetical order*
-
 ### Link to the Data
 
 Given that the datasets used are too large to upload to GitHub, Dropbox has been utilized for data storage. Here is the [link](https://www.dropbox.com/scl/fi/q1f3jlp4h8gdyfci7j1zr/Data.zip?rlkey=hwovqx121dhpabeng1ooxd3ue&st=4qm6krfv&dl=0) to the Dropbox page.
