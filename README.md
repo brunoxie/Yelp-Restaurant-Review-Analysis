@@ -43,12 +43,12 @@ The analysis uses the following datasets:
 
 The project code is organized into several Python scripts:
 
-- `merge-data-pipeline.py`: Data wrangling and merging.
-- `static-plot-visualization.py`: Static data visualizations.
-- `app.py`: Interactive plot creation using Shiny.
-- `sentiment analysis.py`: Sentiment analysis and text preprocessing.
-- `regression analysis.py`: Statistical analysis and regression modeling.
+- [`merge-data-pipeline.py`](Code/merge-data-pipeline.py): Data wrangling and merging.
+- [`static-plot-visualization.py`](Code/static-plot-visualization.py): Static data visualizations.
+- [`app.py`](Code/app.py): Interactive plot creation using Shiny.
+- [`sentiment analysis.py`](Code/sentiment-analysis.py): Sentiment analysis and text preprocessing.
+- [`regression analysis.py`](Code/regression-analysis.py): Statistical analysis and regression modeling.
 
 ## Deliverable
 
-This project provides insights into the factors influencing restaurant reviews through visualizations and statistical analyses. The findings can help restaurant owners optimize their operations and marketing strategies, ultimately enhancing customer satisfaction and business success.
+This project provides insights into the factors influencing restaurant reviews through visualizations and statistical analyses, which can help restaurant owners optimize their operations and marketing strategies, ultimately enhancing customer satisfaction and business success. The findings are [here](Analysis.md).
