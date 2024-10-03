@@ -1,6 +1,6 @@
 # Yelp Restaurant Review Analysis
 
-A data analysis project using Python by Bruno Xie
+A data analysis project using _Python_ by Bruno Xie
 
 ## Overview
 
